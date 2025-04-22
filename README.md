@@ -3,6 +3,10 @@
  
  ![](https://github.com/Bofner/Konami-Collection-Castlevania-Adventure-ReBalance/blob/main/images/title.png)
  
+ ## Note:
+ There are two BPS files in this repository. One simply applies the changes to Castlevania Adventure and leaves the collection alone. The other is an Autoboot for Castlevania Adventure, so you don't have to
+ scroll through the menus on the collection anymore to play ReBalance. 
+ 
  ## Alterations:
  
  -Increased movement speed: This causes Christopher to not only walk faster, but causes the screen to scroll more quickly, and increases the length of his jump, making those brutal pixel-perfect jumps much more manageable.
