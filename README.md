@@ -25,12 +25,9 @@
  
  If you find any glitches or have any suggestions, feel free to reach out.
  
- I've also included my SYM file that I used to help create this hack if you're interested in diving into it for yourself.
- 
 ## How to install
 Use the program FLIPS to install this patch. Simply follow the on-screen prompts in FLIPS and you should have no problems.
 
 FLIPS: https://www.romhacking.net/utilities/1040/
 
-NOTE: A ROM file for the Game Boy game Castlevania - The Adventure is required to install this patch, and is NOT contained within this repository.
-The specific ROM you're looking for will be titled Castlevania - The Adventure (USA).gb
+NOTE: A ROM file for the Game Boy game titled "Konami GB Collection Vol.1 (E) [C][!].gbc" is required to install this patch, and is NOT contained within this repository.
