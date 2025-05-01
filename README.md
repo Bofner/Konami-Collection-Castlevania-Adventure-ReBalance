@@ -4,7 +4,7 @@
  ![](https://github.com/Bofner/Konami-Collection-Castlevania-Adventure-ReBalance/blob/main/images/title.png)
  
  ## Note:
- There are two BPS files in this repository. One simply applies the changes to Castlevania Adventure and leaves the collection alone. The other is an Autoboot for Castlevania Adventure, so you don't have to
+ This is an Autoboot for Castlevania Adventure as well as a balance patch, so you don't have to
  scroll through the menus on the collection anymore to play ReBalance. 
  
  ## Alterations:
